@@ -1,14 +1,6 @@
-**/payload-types.ts
-.tmp
-**/.git
-**/.hg
-**/.pnp.*
-**/.svn
-**/.yarn/**
-**/build
-**/dist/**
-**/node_modules
-**/temp
-**/docs/**
-tsconfig.json
-
+# Package Managers
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+bun.lock
+bun.lockb
